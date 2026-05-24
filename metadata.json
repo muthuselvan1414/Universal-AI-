@@ -1,0 +1,6 @@
+{
+  "name": "UAI Platform",
+  "description": "Universal AI Platform - Premium multi-module learning, coding, business, research, and life assistant driven by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
